@@ -1,6 +1,6 @@
 {
-  "name": "photo-editor-ng2",
-  "version": "0.0.8",
+  "name": "ng2-photo-editor",
+  "version": "0.0.9",
   "description": "Image Editing sdk in Angular 2",
   "license": "MIT",
   "readmeFilename": "README.md",
@@ -10,13 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sandor-huszar/ng2-photoeditor.git"
+    "url": "https://github.com/aoni-bfrow/pesdk-html5-build.git"
   },
   "bugs": {
-    "url": "https://github.com/sandor-huszar/ng2-photoeditor/issues"
+    "url": "https://github.com/aoni-bfrow/pesdk-html5-build/issues"
   },
   "tags": [
     "photoeditor",
+    "photo Editor",
     "angular2",
     "typescript"
   ]
