@@ -1,16 +1,23 @@
 {
-  "name": "pesdk-html5",
-  "version": "3.6.0",
-  "description": "The most comprehensive photo editor SDK for HTML5",
-  "main": "index.js",
-  "repository": {
-    "url": "git@github.com:imgly/pesdk-html5-build.git",
-    "type": "git"
+  "name": "ng2-photoeditor",
+  "version": "0.0.3",
+  "description": "Bfrow Image Editing App in Angular 2",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "author": {
+    "name": "aonia abdelhai",
+    "email": "aoni.a@bfrow.com"
   },
-  "author": "PhotoEditorSDK (9elements GmbH) <contact@9elements.com>",
-  "license": "SEE LICENSE IN LICENSE.md",
-  "dependencies": {
-    "react": "^15.4.0",
-    "react-dom": "^15.4.0"
-  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandor-huszar/ng2-photoeditor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sandor-huszar/ng2-photoeditor/issues"
+  },
+  "tags": [
+    "photoeditor",
+    "angular2",
+    "typescript"
+  ]
 }
