@@ -6,7 +6,7 @@
 <p>
  The true beauty of BFrow is that it continues to be a collaborative effort the BFrow team listens to, values, and implements the features suggested by its users. Each cycle brings better tech, better content, and a better experience for everyone. At BFrow, we believe in the users setting the style.
  </p>
- <a href="https://goo.gl/CIHIgO">Create Your Fashion Blog</a>
+ <a href="https://goo.gl/CIHIgO">Demo is available</a>
 <p align="center">
  <img src="https://camo.githubusercontent.com/4c4c8d90e242619972a11baa3c33acaaeb9bad00/687474703a2f2f692e696d6775722e636f6d2f666748314852742e706e67" />
 </p>
