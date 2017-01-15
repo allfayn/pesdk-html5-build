@@ -11,7 +11,7 @@
 </p>
 
 ## Photo Editor SDK for HTML5.
-The PhotoEditor SDK for HTML5 is a **fully customizable** photo editor which you can integrate into your HTML5 app within minutes.
+The PhotoEditor SDK for HTML5 is a **fully customizable** photo editor which you can integrate into your Angular 2 app within minutes.
 It contains the most important photo editing tools;
 Auto-Enhance, Crop, Rotate, Focus, Brightness, Contrast, Saturation, and more.
 It also features state-of-the-art photo filters, designed and calibrated with a lot of love.
@@ -32,6 +32,6 @@ Please see [LICENSE](https://github.com/imgly/pesdk-html5/blob/master/LICENSE.md
 Made 2013-2016 by @9elements
 
 ### Support or Contact
-Contact contact@photoeditorsdk.com for support requests or to upgrade to an enterprise licence.
+Contact contact@bfrow.com for support requests or to upgrade to an enterprise licence.
 
 
