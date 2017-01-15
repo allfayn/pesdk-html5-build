@@ -1,7 +1,6 @@
 import { Component, Input, Output, EventEmitter, ElementRef, ViewChild, OnChanges, OnInit, OnDestroy, ViewEncapsulation } from '@angular/core';
-
-const PhotoEditorSDK = require('./src/PhotoEditorSDK/v3.5.3/js/PhotoEditorSDK.js');
-const PhotoEditorReactUI = require('./src/PhotoEditorSDK/v3.5.3/js/PhotoEditorReactUI.js');
+const PhotoEditorSDK = require('./src/PhotoEditorSDK/3.5.0/js/PhotoEditorSDK.js');
+const PhotoEditorReactUI = require('./src/PhotoEditorSDK/3.5.0/js/PhotoEditorReactUI.js');
 
 @Component({
     selector: 'photo-editor',
