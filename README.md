@@ -2,11 +2,11 @@
 <p align="center">
 <img src="http://dev.bfrow.com/assets/images/logo.png" />
 </p>
-
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+<p align="center"> Photo Editor Open source angular 2 component that anyone can inspect, modify, and enhance.</p>
 
 <p align="center">
  <img src="https://camo.githubusercontent.com/4c4c8d90e242619972a11baa3c33acaaeb9bad00/687474703a2f2f692e696d6775722e636f6d2f666748314852742e706e67" />
