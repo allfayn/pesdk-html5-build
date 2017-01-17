@@ -1,6 +1,6 @@
 {
   "name": "ng2-photo-editor",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "Image Editing sdk in Angular 2",
   "license": "MIT",
   "readmeFilename": "README.md",
