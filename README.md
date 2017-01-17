@@ -1,12 +1,9 @@
 ## Angular 2 Photo Editor SDK for HTML5.
 <p align="center">
 <img src="http://dev.bfrow.com/assets/images/logo.png" />
-</p>
-<p>BFrow was created in 2016, when fashion lovers and tech gurus met and collaborated on the behind-the-scenes world of fashion and lifestyle blogs. Combining their love of social interaction online and innovation, the BFrow team was formed to build an online community, crowdsourced by up-and-coming fashion bloggers, where they can meet the needs of their readers, expand their reach, share, and interact. BFrow's aim is to create an online world where everyone can be on the front row of all things fashion.</p>
-<p>
- The true beauty of BFrow is that it continues to be a collaborative effort the BFrow team listens to, values, and implements the features suggested by its users. Each cycle brings better tech, better content, and a better experience for everyone. At BFrow, we believe in the users setting the style.
- </p>
  <a href="https://goo.gl/CIHIgO">Demo is available</a>
+</p>
+
 <p align="center">
  <img src="https://camo.githubusercontent.com/4c4c8d90e242619972a11baa3c33acaaeb9bad00/687474703a2f2f692e696d6775722e636f6d2f666748314852742e706e67" />
 </p>
