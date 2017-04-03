@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80dfc849-9a35-419a-a495-5559524381da" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo-editor.component.ts" afterPath="$PROJECT_DIR$/photo-editor.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +17,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="photo-editor.component.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="photo-editor.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/photo-editor.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
@@ -25,6 +25,16 @@
               <folding>
                 <marker date="1491229322466" expanded="true" signature="491:665" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -38,6 +48,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/photo-editor.component.ts" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -102,12 +113,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491229298237</updated>
-      <workItem from="1491229299528" duration="23000" />
+      <workItem from="1491229299528" duration="196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23000" />
+    <option name="totallyTimeSpent" value="196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -150,6 +161,14 @@
           <folding>
             <marker date="1491229322466" expanded="true" signature="491:665" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
