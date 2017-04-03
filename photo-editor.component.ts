@@ -73,6 +73,7 @@ export class PhotoEditorComponent implements OnInit, OnDestroy, OnChanges {
                 showCloseButton: false,
                 editor: {
                     image: myImage,
+                    controlsOrder: ['crop', ['filter', 'adjustments'], ['text', /*'sticker',*/ 'brush'], ['selectiveBlur', 'focus', 'border']],
                     //preferredRenderer: 'canvas',//canvas,webgl
                     export: {
                         showButton: false,
