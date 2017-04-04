@@ -8,8 +8,8 @@ const PhotoEditorReactUI = require('./src/PhotoEditorSDK/3.5.0/js/PhotoEditorRea
     template: `
         <div #host id="photo-host"></div>
         <div class="actions">
-            <a class="action-button cancel-button" (click)="cancelClick()">Cancel</a>
-            <a class="action-button save-button" (click)="saveClick()">Save</a>
+                 <a class="btn white-btn active" (click)="cancelClick()">Discard</a>
+            <a class="btn white-btn pull-right" (click)="saveClick()">Save</a>
 	</div>
     `,
     styleUrls: [
